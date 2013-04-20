@@ -34,7 +34,7 @@
     </tr>
     </tr>
 	    <tr>
-        <td>Flow of Events for Main Success Scenario</td><td> --> 1. Initiator opens the file <<<include>>> identity use case</br><--2. System asks for authentication.</br></td>
+        <td>Flow of Events for Main Success Scenario</td><td> --> 1. Initiator opens the file &#171;include&#187; identity use case</br> <-- 2. System asks for authentication.</br></td>
     </tr>
 </table>
 <p/>
