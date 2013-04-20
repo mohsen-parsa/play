@@ -4,8 +4,8 @@
 **USE CASE 0: ADMINISTRATING** 
 
 
-| Left align | Right align | Center align |  
-|:-----------|------------:|:------------:|  
+| Use Case UC-0: Administrating           |  
+|:-----------|:-----------:|:------------:|  
 | This       |        This |     This     |  
 | column     |      column |    column    |  
 | will       |        will |     will     |   
