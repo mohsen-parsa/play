@@ -37,3 +37,16 @@
 |Flow of Events for Extensions (Alternate Scenarios):|    1. If types invalid information                    |  
 |                          | 2. The system will show a message (type the correct information)                |  
 |                          | 3. If correct he’s accepted.                                                    |  
+
+
+    |  People   | Homeland   | Tongue    |
+     ====================================
+    |  Elves    | Rivendell, | Quenya,   |
+    |           | Mirkwood,  | Sindarin, |
+    |           | Lorien     | Nandorin  |
+     ----------- ------------ -----------
+    |  Dwarves  | Erebor     | THESE     |
+     ----------- ------------  TWO CELLS |
+    |  Hobbits  | The Shire, | ARE       |
+    |           | Breeland   | MERGED    |
+     ----------- ------------ ----------- 
