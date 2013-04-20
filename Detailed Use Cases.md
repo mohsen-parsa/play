@@ -4,43 +4,11 @@
 **USE CASE 0: ADMINISTRATING** 
 
 
-<p/>
-<table>
-    <tr>
-        <td><b>Use Case UC-0:  </td><td><b>Administrating</td>
-    </tr>
-	 <tr>
-        <td>Related UserStories</td><td>St-1, 6, 7, 11,15, 18, 19, 20</td>
-    </tr>
-	 <tr>
-        <td>Initiator</td><td>Admin</td>
-    </tr>
-	 <tr>
-        <td>Participators</td><td>Receptionist, Druggist, LabStuff, Casher, TherausrusStuff </td>
-    </tr>
-    <tr>
-        <td>Actors goal</td><td>To add delete, edit, users or manage users and system.</td>
-    </tr>
-    <tr>
-        <td>Preconditions</td><td>He has to be admin, and have to be added as Admin and enter the password.</td>
-    </tr>
-    <tr>
-        <td>Post-conditions</td><td>Will be able to bring changes to the database Or records Or system.</td>
-    </tr>
-   	<tr>
-        <td colspane="4">Flow of Events for Main Success Scenario</td><td><SPAN> --> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <-- 2. System asks for authentication.</td>
-    </tr>
-   	<tr>
-        <td>Flow of Events for Main Success Scenario</td><td>--> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <SPAN><-- 2. System asks for authentication.</SPAN></td>
-    </tr>
-   	<tr>
-        <td>Flow of Events for Main Success Scenario</td><td>--> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <SPAN><-- 2. System asks for authentication.</SPAN></td>
-    </tr>
-   	<tr>
-        <td>Flow of Events for Main Success Scenario</td><td>--> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <SPAN><-- 2. System asks for authentication.</SPAN></td>
-    </tr>
-   	<tr>
-        <td>Flow of Events for Main Success Scenario</td><td>--> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <SPAN><-- 2. System asks for authentication.</SPAN></td>
-    </tr>
-</table>
-<p/>
+| Left align | Right align | Center align |  
+|:-----------|------------:|:------------:|  
+| This       |        This |     This     |  
+| column     |      column |    column    |  
+| will       |        will |     will     |   
+| be         |          be |      be      |  
+| left       |       right |    center    |  
+| aligned    |     aligned |   aligned    |  
