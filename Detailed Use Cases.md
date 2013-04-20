@@ -28,7 +28,7 @@
         <td>Post-conditions</td><td>Will be able to bring changes to the database Or records Or system.</td>
     </tr>
    	<tr>
-        <tdrowspan="4">Flow of Events for Main Success Scenario</td><td><SPAN> --> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <-- 2. System asks for authentication.</td>
+        <td colspane="4">Flow of Events for Main Success Scenario</td><td><SPAN> --> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <-- 2. System asks for authentication.</td>
     </tr>
    	<tr>
         <td>Flow of Events for Main Success Scenario</td><td>--> 1. Initiator opens the file &#171;include&#187; identity use case<br /> <SPAN><-- 2. System asks for authentication.</SPAN></td>
